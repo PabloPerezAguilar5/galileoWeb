@@ -7606,6 +7606,8 @@ textarea.form-control-lg {
   margin-top: 3rem !important;
 }
 
+
+
 .mt-auto {
   margin-top: auto !important;
 }
@@ -10838,6 +10840,10 @@ background: linear-gradient(to right, #C4E0E5, #4CA1AF); /* W3C, IE 10+/ Edge, F
 
 }
 
+
+  
+
+
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75) !important;
 }
@@ -10996,3 +11002,5 @@ header.masthead h1, header.masthead .h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+
